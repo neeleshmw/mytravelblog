@@ -6,7 +6,7 @@ permalink: /andaman-nicobar/
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f096aa0-5efa-4f2a-a15e-4209af03ae91" alt="Andaman and Nicobar Islands" style="max-width:100%; border-radius:8px;" />
+  <img src="assets/images/andaman/README.md" alt="Andaman and Nicobar Islands" style="max-width:100%; border-radius:8px;" />
 </p>
 
 ## 🏝️ Andaman & Nicobar Islands – India’s Emerald Paradise
